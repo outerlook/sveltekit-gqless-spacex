@@ -1,5 +1,5 @@
 ## Experimental example
-This example was created to give example of working with gqless and svelte.
+This was created to give example of working with gqless and svelte.
 Windicss was added for convenience.
 
 ## Starting server
